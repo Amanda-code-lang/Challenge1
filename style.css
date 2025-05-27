@@ -1,16 +1,25 @@
 h1 {
-    color: blue;
+    color: black;
     font-size: 24px;
     font-weight: bold;
+    text-align: center;
 }
 
 p {
-    color: green;
+    color: rgba(5, 4, 4, 0.742) ;
     font-size: 16px;
     line-height: 1.5;
 }
 body {
-    background-color: #f0f0f0;
+    background-color: white ;
     font-family: Arial, sans-serif;
     margin: 20px;
 }
+.qoute-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: beige;
+    margin: 20px 0;
+}
+
+
